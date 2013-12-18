@@ -1,0 +1,11 @@
+{
+  "name": "jquery-scrollstop",
+  "version": "0.0.1",
+  "main": "jquery.scrollstop.js",
+  "ignore":[
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery": null
+  }
+}
